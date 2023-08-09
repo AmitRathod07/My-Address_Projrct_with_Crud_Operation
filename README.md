@@ -68,6 +68,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- This project was inspired by [provide source or tutorial if applicable].
-- Thanks to [mention any contributors or resources].
-```
+This project was inspired by [provide source or tutorial if applicable].
+Thanks to [mention any contributors or resources].
+
