@@ -17,7 +17,7 @@ These instructions will help you get the project up and running on your local ma
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/angular-dotnet-crud.git
+git clone https://github.com/AmitRathod07/My-Address_Projrct_with_Crud_Operation.git
 cd angular-dotnet-crud
 ```
 
